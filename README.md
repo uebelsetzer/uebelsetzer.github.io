@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>Testing Github Personal Pages.</p>
+<h1>Zilio</h1>
 </body>
 </html>
